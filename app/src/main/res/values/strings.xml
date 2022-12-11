@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AkilliEv</string>
+    <string name="ak_ll_ev_sistemine_ho_geldiniz">Akıllı Ev Sistemine Hoş Geldiniz</string>
+    <string name="_1234">1234</string>
+    <string name="ad_giriniz">Ad giriniz</string>
+    <string name="giri">Giriş</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="durum">Durum</string>
+    <string name="listele">Listele</string>
+</resources>
